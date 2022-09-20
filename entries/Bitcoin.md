@@ -1,0 +1,1 @@
+Bitcoin is a decentralised digital currency that can be transferred on the peer-to-peer bitcoin network. Bitcoin transactions are verified by network nodes through cryptography and recorded in a public distributed ledger called a blockchain.
